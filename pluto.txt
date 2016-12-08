@@ -1,1 +1,6 @@
 test pluto file from jim for jackie
+I am editing this to force a conflict with Jackie's master file.
+
+This version of Pluto won't correspond with hers (or if it does it will be a very unlikely event!)
+
+
